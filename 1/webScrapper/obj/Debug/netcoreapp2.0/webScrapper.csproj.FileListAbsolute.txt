@@ -1,0 +1,22 @@
+c:\users\user\source\repos\webScrapper\webScrapper\bin\Debug\netcoreapp2.0\webScrapper.deps.json
+c:\users\user\source\repos\webScrapper\webScrapper\bin\Debug\netcoreapp2.0\webScrapper.runtimeconfig.json
+c:\users\user\source\repos\webScrapper\webScrapper\bin\Debug\netcoreapp2.0\webScrapper.runtimeconfig.dev.json
+c:\users\user\source\repos\webScrapper\webScrapper\bin\Debug\netcoreapp2.0\webScrapper.dll
+c:\users\user\source\repos\webScrapper\webScrapper\bin\Debug\netcoreapp2.0\webScrapper.pdb
+c:\users\user\source\repos\webScrapper\webScrapper\obj\Debug\netcoreapp2.0\webScrapper.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\webScrapper\webScrapper\obj\Debug\netcoreapp2.0\webScrapper.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\webScrapper\webScrapper\obj\Debug\netcoreapp2.0\webScrapper.AssemblyInfoInputs.cache
+c:\users\user\source\repos\webScrapper\webScrapper\obj\Debug\netcoreapp2.0\webScrapper.AssemblyInfo.cs
+c:\users\user\source\repos\webScrapper\webScrapper\obj\Debug\netcoreapp2.0\webScrapper.dll
+c:\users\user\source\repos\webScrapper\webScrapper\obj\Debug\netcoreapp2.0\webScrapper.pdb
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\bin\Debug\netcoreapp2.0\WebScrapper.deps.json
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\bin\Debug\netcoreapp2.0\WebScrapper.runtimeconfig.json
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\bin\Debug\netcoreapp2.0\WebScrapper.runtimeconfig.dev.json
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\bin\Debug\netcoreapp2.0\WebScrapper.dll
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\bin\Debug\netcoreapp2.0\WebScrapper.pdb
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\obj\Debug\netcoreapp2.0\WebScrapper.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\obj\Debug\netcoreapp2.0\WebScrapper.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\obj\Debug\netcoreapp2.0\WebScrapper.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\obj\Debug\netcoreapp2.0\WebScrapper.AssemblyInfo.cs
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\obj\Debug\netcoreapp2.0\WebScrapper.dll
+C:\Users\USER\Documents\לעבודה\Cynet\webScrapper - Copy\webScrapper\obj\Debug\netcoreapp2.0\WebScrapper.pdb
